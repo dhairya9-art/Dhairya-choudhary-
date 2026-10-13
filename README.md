@@ -1,21 +1,24 @@
-# Practical 02 — Photo Editing
+# Adobe Photoshop Practicals — UAC012P
 
-## Student Details
-- Name: Devansh
-- Roll Number: 55
-- Course: BCA
+**Student:** Devansh  
+**Roll Number:** 55  
+**Course:** BCA
 
-## Objective
-To complete the practical 02 practical using Adobe Photoshop tools.
+This repository is organized for the six Desktop Publishing practical tasks in UAC012P.
 
-## Tools / techniques
-- Layers and selection tools
-- Text and shape tools
-- Color correction and effects (as applicable)
+## Practicals
+1. Practical 01 — Photoshop basic tools and shapes
+2. Practical 02 — Photo editing and retouching
+3. Practical 03 — Layers, masks and travel poster
+4. Practical 04 — Selection and color correction
+5. Practical 05 — Filters, brushes and blending modes
+6. Practical 06 — Promotional poster
 
-## Output
-The included JPG is a simple starter/reference design. Open or recreate it in Adobe Photoshop, use the required tools from the assignment, and save an editable PSD file before submission.
+## Important
+The JPG files are starter/reference designs. Open or recreate each design in Adobe Photoshop, apply the techniques required by your assignment, and save the editable PSD files. For Practical 02, include a genuine before/after photo comparison. For Practicals 03–06, keep meaningful layers and masks in the PSD.
 
-## Files
-- `Practical_02_Devansh_55.jpg` — JPG reference/export
-- `Practical_02_Devansh_55.psd` — save this editable file from Photoshop
+## Submission
+Upload the PSD and exported JPG/PNG files for each practical, then submit the GitHub repository URL through your LMS/ERP.
+
+
+Each practical folder also contains a `Practical_XX_Visual_Guide.jpg` image to help visualize the task. These are references; edit/recreate the work yourself and save the required PSD files.
