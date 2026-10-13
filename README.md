@@ -1,7 +1,7 @@
 # Adobe Photoshop Practicals — UAC012P
 
-**Student:** Dherya
-**Roll Number:** 55  
+**Student:** Dhairya Choudhary 
+**Roll Number:** CU25260206
 **Course:** BCA
 
 This repository is organized for the six Desktop Publishing practical tasks in UAC012P.
