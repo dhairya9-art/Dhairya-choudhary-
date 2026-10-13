@@ -1,6 +1,6 @@
 # Adobe Photoshop Practicals — UAC012P
 
-**Student:** Devansh  
+**Student:** Dherya
 **Roll Number:** 55  
 **Course:** BCA
 
